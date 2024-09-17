@@ -1,0 +1,3 @@
+/opt/code/c-code/play-game/code-show/hello-cpp/cmake-build-debug/CMakeFiles/hello_cpp.dir
+/opt/code/c-code/play-game/code-show/hello-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/opt/code/c-code/play-game/code-show/hello-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
